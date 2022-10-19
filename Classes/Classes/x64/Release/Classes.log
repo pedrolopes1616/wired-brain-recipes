@@ -1,0 +1,5 @@
+﻿  Log.cpp
+  Main.cpp
+C:\C++Projects\Classes\Classes\src\Main.cpp(8,23): error C2440: 'initializing': cannot convert from 'const char [7]' to 'char *'
+C:\C++Projects\Classes\Classes\src\Main.cpp(8,13): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  Static.cpp
